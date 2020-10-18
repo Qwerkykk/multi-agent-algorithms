@@ -1,17 +1,17 @@
-#About
+# About
 
 This is university assignment about multi-agent algorithms for Berkeley's second pacman project (http://ai.berkeley.edu/multiagent.html)
 
 
 The implementation of algorithms can be found at multiAgents.py
 
-#Requirements
+# Requirements
 
 -python2
 -TKinter
 
 
-#How to run
+# How to run
 
 - Minimax: python2 autograder.py -q q2 
 
