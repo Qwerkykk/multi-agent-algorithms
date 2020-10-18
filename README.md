@@ -1,6 +1,6 @@
 # About
 
-This is university assignment about multi-agent algorithms for Berkeley's second pacman project (http://ai.berkeley.edu/multiagent.html)
+This is a university assignment about multi-agent algorithms for Berkeley's second pacman project (http://ai.berkeley.edu/multiagent.html)
 
 
 The implementation of algorithms can be found at multiAgents.py
