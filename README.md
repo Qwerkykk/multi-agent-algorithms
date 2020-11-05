@@ -7,8 +7,8 @@ The implementation of algorithms can be found at multiAgents.py
 
 # Requirements
 
--python2
--TKinter
+- python2
+- TKinter
 
 
 # How to run
